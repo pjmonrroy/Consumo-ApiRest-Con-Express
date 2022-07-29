@@ -1,0 +1,37 @@
+Configuración del entorno de desarrollo
+⠀⠀⠀⠀
+Hola!, les dejo las definiciones de los siguientes conceptos para reafirmar las bases que ya tenemos sobre el desarrollo. 😁
+⠀⠀⠀⠀
+Git Ignore:
+⠀⠀⠀⠀
+Son archivos ignorados que suelen ser artefactos de compilación y archivos generados por el equipo que pueden derivarse de tu fuente de repositorios o que no deberían confirmarse por algún otro motivo. Ejemplo: node_modules.
+
+Linters:
+⠀⠀⠀⠀
+Herramientas que realizan la lectura del código fuente
+
+Detectan errores/warnings de código
+Variables sin usar o no definida, llave sin cerrar…
+⠀⠀⠀⠀
+Nodemon:
+⠀⠀⠀⠀
+Es una herramienta que ayuda a desarrollar aplicaciones en Node.js al reiniciar la aplicación autómaticamente cuando hay cambios en el archivo.
+⠀⠀⠀⠀
+gitignore.io:
+⠀⠀⠀⠀
+Contiene la configuración del entorno que específiques
+⠀⠀⠀⠀
+Editor Config:
+⠀⠀⠀⠀
+Todos los desarrolladores tendrán la misma configuración del proyecto
+
+comandos a instalar
+*git init
+npm i -y
+https://www.toptal.com/developers/gitignore (node windos linux mac)
+npm i nodemon eslint eslint-config-prettier eslint-plugin-prettier prettier -D
+
+como crear el servidor con express js
+npm i express
+
+npm i faker
